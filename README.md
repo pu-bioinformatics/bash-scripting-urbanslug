@@ -1,2 +1,3 @@
-# bash-refresher
-Quick refresher to gauge our current understanding of bash
+# Bash for bio
+
+My bash for bio stuff
